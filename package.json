@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "salman <samilsalman12@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.14.4",
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "graphql": "^15.1.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
 }
