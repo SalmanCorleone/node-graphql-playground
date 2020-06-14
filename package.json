@@ -1,0 +1,7 @@
+{
+  "name": "node-graphql-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "salman <samilsalman12@gmail.com>",
+  "license": "MIT"
+}
